@@ -11,9 +11,13 @@
 
 请**不要**通过公开 Issue 报告安全漏洞。
 
-请发邮件到:your-email@example.com
+请通过 **GitHub Security Advisories** 私密报告:
 
-我们会:
+👉 https://github.com/changrichu/MemoryAgent/security/advisories/new
+
+我们**强烈推荐**使用 GitHub 私密渠道(避免邮箱被爬虫抓取导致垃圾邮件)。
+
+我们承诺:
 - 24 小时内回复确认
 - 评估严重程度并修复
 - 修复后公开致谢(可选)
