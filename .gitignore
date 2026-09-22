@@ -1,0 +1,29 @@
+# Environment
+.env
+.env.local
+*.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+
+# Models and large files
+models/
+*.bin
+*.safetensors
+*.pt
+data/fine_tuning/
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+*.swp
+
+# Temp
+tmp/

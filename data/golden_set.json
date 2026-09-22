@@ -1,0 +1,22 @@
+[
+  {
+    "question": "我之前提到过我喜欢什么咖啡?",
+    "must_contain": ["美式", "不加糖"],
+    "reference_answer": "你之前提到喜欢美式咖啡,不加糖。"
+  },
+  {
+    "question": "我是做什么工作的?",
+    "must_contain": ["产品经理"],
+    "reference_answer": "你是 AI 产品经理。"
+  },
+  {
+    "question": "我住在哪里?",
+    "must_contain": ["杭州"],
+    "reference_answer": "你常住在杭州。"
+  },
+  {
+    "question": "再见",
+    "must_contain": ["再见"],
+    "reference_answer": "再见,期待下次再聊!"
+  }
+]
