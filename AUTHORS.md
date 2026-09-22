@@ -3,8 +3,9 @@
 ## Core Team
 
 - **MemoryAgent Contributors** - 设计与实现
-  - 项目地址:https://github.com/your-username/memoryagent
-  - 邮箱:your-email@example.com
+  - 项目地址:https://github.com/changrichu/MemoryAgent
+  - GitHub:[@changrichu](https://github.com/changrichu)
+  - 邮箱:x18764802565@gmail.com(请优先使用 GitHub Issues / Discussions,邮件仅作备用)
 
 ## 致谢
 
